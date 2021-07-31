@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+$color1: #ff0000;
+$gray: #202020;
+
+$fontSM: 0.65rem;
+$fontMD: 0.7rem;
+$fontL: 1rem;
+$fontXL: 3rem;
+
+.text_click1 {
+    font-weight: bold;
+    font-size: $fontMD;
+    color: #1A99FF;
+}
+
+.text_click2 {
+    font-weight: bold;
+    font-size: $fontL;
+}

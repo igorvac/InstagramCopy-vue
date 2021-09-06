@@ -7,7 +7,7 @@
   </div>
 
   <div class="post">
-    <img src="https://picsum.photos/500/500" alt="" />
+    <img src="https://picsum.photos/500/300" alt="" />
     <span class="material-icons">favorite_border</span>
     <span class="material-icons">chat_bubble_outline</span>
     <span class="material-icons-outlined"> send </span>
